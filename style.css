@@ -1,0 +1,38 @@
+img{
+	height: 25px;
+	width: 25px;
+	background-color: rgb(90, 148, 227);
+	margin: 0px;
+	padding: 20px;
+	display: inline-block;
+}
+h1{
+	background-color: rgb(90, 148, 227);
+	color: white;
+	height: 25px;
+	margin-left: 0px;
+	padding: 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 100;
+	display: inline-block;
+}
+ul {
+  list-style-type: none;
+  margin-left: 0px;
+  padding: 20px;
+  background-color: rgb(90, 148, 227);
+  display: inline-block;
+}
+li{
+	float: left;
+}
+li a{
+	list-style-type: none;
+	color: white;
+	height: 25px;
+	padding: 75px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 100;
+
+}
